@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "label": "dev",
+    "id": 1,
+    "disabled": false,
+    "choices": [
+      {
+        "value": "stijn@handlangers.be",
+        "label": "Stijn"
+      },
+      {
+        "value": "rutger@handlangers.be",
+        "label": "Rutger"
+      }
+    ]
+  },
+  "pm": {
+    "label": "pm",
+    "id": 2,
+    "disabled": false,
+    "choices": [
+      {
+        "value": "marie@handlangers.be",
+        "label": "Marie"
+      }
+    ]
+  }
+}
