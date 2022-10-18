@@ -1,28 +1,39 @@
 {
-  "dev": {
-    "label": "dev",
-    "id": 1,
-    "disabled": false,
-    "choices": [
-      {
-        "value": "stijn@handlangers.be",
-        "label": "Stijn"
-      },
-      {
-        "value": "rutger@handlangers.be",
-        "label": "Rutger"
-      }
-    ]
-  },
-  "pm": {
-    "label": "pm",
-    "id": 2,
-    "disabled": false,
-    "choices": [
-      {
-        "value": "marie@handlangers.be",
-        "label": "Marie"
-      }
-    ]
-  }
+    "dev": {
+        "label": "dev",
+        "id": 1,
+        "disabled": false,
+        "choices": [
+            {
+                "value": "stijn@handlangers.be",
+                "label": "Stijn"
+            },
+            {
+                "value": "rutger@handlangers.be",
+                "label": "Rutger"
+            }
+        ]
+    },
+    "pm": {
+        "label": "pm",
+        "id": 2,
+        "disabled": false,
+        "choices": [
+            {
+                "value": "marie@handlangers.be",
+                "label": "Marie"
+            }
+        ]
+    },
+    "design": {
+        "label": "design",
+        "id": 3,
+        "disabled": false,
+        "choices": [
+            {
+                "value": "sam@handlangers.be",
+                "label": "Sam"
+            }
+        ]
+    }
 }
